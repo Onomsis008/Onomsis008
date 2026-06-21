@@ -1,0 +1,7 @@
+SpeechRecognition
+pyttsx3
+opencv-python
+mediapipe
+pyautogui
+google-generativeai
+python-dotenv
